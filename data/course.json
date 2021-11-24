@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0ea55872-26cb-8324-4dd2-4144b12589a0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Topics in Several Complex Variables",
+  "course_description": "This course covers harmonic theory on complex manifolds, the Hodge decomposition theorem, the Hard Lefschetz theorem, and Vanishing theorems. Some results and tools on deformation and uniformization of complex manifolds are also discussed.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.117",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
